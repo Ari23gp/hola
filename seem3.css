@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:"Plus Jakarta Sans", sans-serif;
+align-content: center;
+}
+
+header{
+    width: 1300px;
+    height: 600px;
+    background: #0f0c29;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, hsla(354, 91%, 59%, 0.317), hsla(245, 39%, 28%, 0.413), hsla(246, 55%, 10%, 0.322)), url(imd.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, hsla(0, 78%, 55%, 0.317), hsla(245, 39%, 28%, 0.413), hsla(246, 55%, 10%, 0.322)), url(imd.jpeg); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    color: #fff;
+}
+
+.wave{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+img{
+    text-align: center;
+}
+
+
+ section{
+    text-align: center;
+ margin-bottom: 60px;
+ padding-top: 30px;
+ }
+
+h2{
+    margin-left: 80px;
+}
+
+.P1{
+    margin-left: 80px;
+    text-align: justify;
+    margin-right: 90px;
+}
+
+.imgg{
+    margin-left: 190px;
+    text-align: center;
+    margin-right: 190px;
+    border-radius: 30px;
+}
+
+h4{
+    margin-left: 80px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+
+.i1{
+    margin-top: 0px;
+   margin-right: 0px;
+   margin-left: 100px;
+   border-radius: 10px;
+  }
+
+  .i2{
+    margin-top: 0px;
+   margin-right: 0px;
+   margin-left: 100px;
+   border-radius: 10px;
+  }
+
+  .i3{
+    margin-top: 0px;
+   margin-right: 0px;
+   margin-left: 100px;
+   border-radius: 10px;
+  }
+  .i4{
+    margin-top: 40px;
+   margin-right: 20px;
+   margin-left: 100px;
+   border-radius: 10px;
+  }
+  .i5{
+    margin-top: 0px;
+   margin-right: 0px;
+   margin-left: 100px;
+   border-radius: 10px;
+   text-align: center;
+  }
+
+  .ob{
+  margin-top: 0px;
+ margin-right: 0px;
+
+ border-radius: 10px;
+ text-align: center;
+}
